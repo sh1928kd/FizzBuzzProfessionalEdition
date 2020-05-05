@@ -1,0 +1,20 @@
+
+
+# === format ===
+# :emoji: Subject
+#
+# Detail...
+#
+# e.g.
+# :tada: コミットメッセージテンプレートを追加
+#
+# Emoji-prefix を導入するにあたり、テンプレートを設けることで入力時typoを防ぎたい！
+#
+# === emoji ===
+# :tada: 記念すべき機能追加！
+# :hammer: 機能更新
+# :ambulance: 不具合修正
+# :art: リファクタリング
+# :speech_balloon: ソースコメントの更新
+# :fire: 機能・ファイルの削除
+# :green_heart: UnitTestやCIの修正・改善
